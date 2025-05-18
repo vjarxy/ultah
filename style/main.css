@@ -89,6 +89,7 @@ body {
   position: relative;
   top: 10vh;
   z-index: 1;
+  margin-top: -100px;
 }
 
 .six img {
@@ -262,9 +263,13 @@ body {
     width: 90%;
   }
 
+  .one{
+    font-size: 2rem;
+  }
+
   .four .text-box {
     width: 90%;
-    margin-top: -150px;
+    margin-top: -100px;
     font-size: 12px;
   }
 
